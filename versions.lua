@@ -5,5 +5,5 @@ return {
     boxingv2 = "1.0.1",
     drivingSchool = "1.0.4",
     dealerShip = "1.0.10",
-    radar = "1.0.0"
+    radar = "1.0.1"
 }
