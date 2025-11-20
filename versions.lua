@@ -6,5 +6,5 @@ return {
     drivingSchool = "1.0.4",
     dealerShip = "1.0.10",
     radar = "1.0.1",
-    newspaperRemake = "1.0.2"
+    newspaperRemake = "1.0.3"
 }
