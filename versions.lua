@@ -4,7 +4,7 @@ return {
     newspaperv3 = "1.0.3",
     boxingv2 = "1.0.1",
     drivingSchool = "1.0.4",
-    dealerShip = "1.0.10",
+    dealerShip = "1.1.0",
     radar = "1.0.1",
     newspaperRemake = "1.0.3"
 }
