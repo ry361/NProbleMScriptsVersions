@@ -8,6 +8,5 @@ return {
     radar = "1.0.2",
     newspaperRemake = "1.0.3",
     businessCards = "1.0.0",
-    multichar = "1.0.0",
-    spawnSelector = "1.0.0"
+    spawnSelector = "1.0.1"
 }
