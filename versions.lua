@@ -5,7 +5,7 @@ return {
     boxingv2 = "1.0.1",
     drivingSchool = "1.0.5",
     dealerShip = "1.1.0",
-    radar = "1.0.2",
+    radar = "1.0.3",
     newspaperRemake = "1.0.3",
     businessCards = "1.0.0",
     spawnSelector = "1.0.1"
